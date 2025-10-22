@@ -1,0 +1,40 @@
+{
+  "version": "1.0",
+  "timestamp": "2024-01-15T10:30:00Z",
+  "source": "api.example.com",
+  "total_entries": 4,
+  "entries": [
+    {
+      "phone_number": "666",
+      "type": "NUMERO_COMPLETO",
+      "description": "Número de prueba 666",
+      "is_spam": false,
+      "is_global": true,
+      "spec_version": "SPECS9"
+    },
+    {
+      "phone_number": "777",
+      "type": "NUMERO_COMPLETO",
+      "description": "Número de prueba 777",
+      "is_spam": true,
+      "is_global": true,
+      "spec_version": "SPECS9"
+    },
+    {
+      "phone_number": "888",
+      "type": "NUMERO_COMPLETO",
+      "description": "Número de prueba 888",
+      "is_spam": false,
+      "is_global": true,
+      "spec_version": "SPECS9"
+    },
+    {
+      "phone_number": "999",
+      "type": "NUMERO_COMPLETO",
+      "description": "Número de prueba 999",
+      "is_spam": true,
+      "is_global": true,
+      "spec_version": "SPECS9"
+    }
+  ]
+}
